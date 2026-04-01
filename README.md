@@ -43,7 +43,7 @@ A smart city project integrating sustainability, automation, and user engagement
 
 
 ## 📄 Project Report
-   smart hub.word
+   👉 [Click here to view full report](./smart hub.pdf)
 
 ## 💡 Future Scope
 - IoT integration
